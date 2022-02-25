@@ -20,7 +20,6 @@ void setup(){
    lcd.setCursor (0,0);
   lcd.print("***RFID RF522***");
   lcd.setCursor (0,1);
-  lcd.print("-nyebarilmu.com-");
   delay (4000);
   lcd.clear();
 }
